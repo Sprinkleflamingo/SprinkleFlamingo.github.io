@@ -3,7 +3,7 @@
 header {
     text-align: center;
     background-size: cover;
-    background-image: url("https://s-media-cache-ak0.pinimg.com/originals/4b/c5/ed/4bc5edea08ab174d85b5551867d6faba.jpg");
+    background-image: url("../assets/img/background.jpg");
     color: #f8f8ff;
     font-size: 1em;
 }
@@ -121,7 +121,7 @@ span{
 .instaButton {
     border-radius: 5px;
     border: 2px solid #4c68d7;
-    background-image: url("http://d1qhuz9ahqnrhh.cloudfront.net/wp-content/uploads/2016/05/instagram_gradient_wallpaper_by_jasonzigrino-da28exh.png")  ;
+    background-image: url("../assets/img/instagram.png")  ;
     background-size: 120px, 52px;
     height: 52px;
     width: 120px;
@@ -143,15 +143,15 @@ span{
 }
 
 #Instagram{
-    font-family: Billabong, sans-serif;
+    font-family: "myFirstFont", sans-serif;
     font-size: 1.5em;
     color: #ffffff;
-}/*
+}
 @font-face {
     font-family: myFirstFont;
-    src: url("Billabong.woff");
+    src: url("../assets/fonts/Billabong.woff");
 }
-*/
+
 @media (max-width: 500px){
 
     h1{
